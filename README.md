@@ -1,4 +1,4 @@
-<h1 align="center">Hola, Soy Jonathan Pedroza Bernal, mejor conocido como Coolchebre por mi nick gamer o también como JPBMonster 👋🏻</h1>
+<h1 align="center">Hola, Soy Jonathan Pedroza Bernal, mejor conocido como Coolchebre por mi user gamer o también como JPBMonster 👋🏻</h1>
 <h3 align="center">Estudiante universitario en Ingeniería de Sistemas, apasionado por el diseño de videojuegos y diseño de aplicaciones para cualquier área de trabajo; con conocimientos en programas como: Suite Office, Java NetBeans, XAMPP, Android Studio, PostgreSQL, Distribución Linux.</h3>
 
 <h3 align="left">Connect with me:</h3>
