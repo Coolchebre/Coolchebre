@@ -5,8 +5,8 @@
 <p align="left">
 <a href="https://twitter.com/@jonathan_1708p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jonathan_1708p" height="30" width="40" /></a>
 <a href="https://fb.com/@jonathan.pedroza.104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@jonathan.pedroza.104" height="30" width="40" /></a>
-<a href="https://instagram.com/@jhonny_pedroza_1708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@jhonny_pedroza_1708" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@jpbmonster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@jpbmonster" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/jhonny_pedroza_1708?igsh=bxi1mxi1cg11exq3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jhonny_pedroza_1708?igsh=bxi1mxi1cg11exq3" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/http://www.youtube.com/@jpbmonster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@jpbmonster" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
